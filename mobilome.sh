@@ -2,7 +2,7 @@
 
 # === Configuration ===
 INPUT_DIR="Genomes"
-OUT_DIR="mobilome_results2"
+OUT_DIR="mobilome_results"
 THREADS=32
 #CHECKV_DB="/home/checkv-db-v1.5"  # Modify to your CheckV DB location
 
